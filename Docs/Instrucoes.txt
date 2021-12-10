@@ -1,0 +1,8 @@
+As imagens devem estar no mesmo diretório que o código fonte!
+
+Como especificado no relatório, as versões utilizadas foram:
+- Spyder 5.1.5.
+- Python versão 3.10.
+- Numpy versão 1.21.3.
+- Matplotlib versão 3.4.3.
+- OpenCv versão 4.5.4-dev.
