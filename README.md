@@ -9,4 +9,7 @@ A basic program that<b> receives a grayscale image and returns an image in pseud
 
 ## How to use
 
+### Input 
+<b>The application will look for images in the same directory as the source code</b>, accepting <b>jpeg, png and tiff formats</b>, asking which image do you wanna load. After that, you have to write the color palette that will be applied. The list of available color palettes can be seeing <a href="https://matplotlib.org/stable/gallery/color/colormap_reference.html">here</a>. 
 
+### Output
