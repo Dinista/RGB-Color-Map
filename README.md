@@ -14,3 +14,11 @@ A basic program that<b> receives a grayscale image and returns an image in pseud
 
 ### Output
 
+
+### Dependencies
+
+<ul style = "color: red;">
+<li>Numpy.</li>
+<li>Matplotlib.</li>
+<li>OpenCv.</li>
+</ul>
