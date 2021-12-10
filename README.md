@@ -14,6 +14,13 @@ A basic program that<b> receives a grayscale image and returns an image in pseud
 
 ### Output
 
+The output will be the image with the color palette applied. a preview of the output will be shown in a new window by OpenCv, you can either save the image or not. <b>The saved image will be in the same directory as the source code</b>.
+
+An example of output using the color palette "inferno" (input on the left, output on the right):
+<div style = "display: inline-block;">
+<img src="https://github.com/Dinista/RGB-Color-Map/blob/main/Sample%20images/Sculpture.jpg" width="180">
+<img src="https://github.com/Dinista/RGB-Color-Map/blob/main/Sample%20images/Inferno.PNG" width="180">
+</div>
 
 ### Dependencies
 
